@@ -15,7 +15,7 @@ A simple, responsive blog platform built with Flask as part of Dr. Angela Yu’s
 7. [Customization](#customization)
 8. [Deployment](#deployment)
 9. [Credits](#credits)
-10. [License](#license)
+
 
 ---
 
@@ -147,7 +147,5 @@ flask-blog/
 
 ---
 
-## License
 
-This project is released under the MIT License. See the [LICENSE](LICENSE) file for details.
 
