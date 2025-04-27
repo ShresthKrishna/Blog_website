@@ -7,16 +7,15 @@ A simple, responsive blog platform built with Flask as part of Dr. Angela Yu’s
 ## Table of Contents
 
 1. [Features](#features)
-2. [Demo](#demo)
-3. [Prerequisites](#prerequisites)
-4. [Installation](#installation)
-5. [Configuration](#configuration)
-6. [Project Structure](#project-structure)
-7. [Usage](#usage)
-8. [Customization](#customization)
-9. [Deployment](#deployment)
-10. [Credits](#credits)
-11. [License](#license)
+2. [Prerequisites](#prerequisites)
+3. [Installation](#installation)
+4. [Configuration](#configuration)
+5. [Project Structure](#project-structure)
+6. [Usage](#usage)
+7. [Customization](#customization)
+8. [Deployment](#deployment)
+9. [Credits](#credits)
+10. [License](#license)
 
 ---
 
@@ -31,11 +30,6 @@ A simple, responsive blog platform built with Flask as part of Dr. Angela Yu’s
 
 ---
 
-## Demo
-
-![Blog Demo](./demo/demo.gif)
-
-Live demo: [https://your-blog-app.herokuapp.com](https://your-blog-app.herokuapp.com)
 
 ---
 
